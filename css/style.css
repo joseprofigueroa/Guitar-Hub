@@ -1,0 +1,19 @@
+
+body{
+    background-color: #544F52
+}
+
+h1{
+    font-size: 40px;
+    color: #FCFCFC;
+}
+
+h2{
+    font-size: 30px;
+    color: #02111B;
+}
+
+.Gallery Element {
+    display:flex;
+    justify-content: center;
+}
