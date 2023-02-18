@@ -1,16 +1,21 @@
 
 body{
-    background-color: #544F52
+    background-color: #EBEBEB
 }
 
 h1{
     font-size: 40px;
-    color: #FCFCFC;
+    color: #02111B;
 }
 
 h2{
     font-size: 30px;
     color: #02111B;
+}
+
+p{
+    font-size: 20px;
+    color: #544F52; 
 }
 
 .Gallery Element {
