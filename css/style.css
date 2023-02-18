@@ -2,7 +2,9 @@
 /* Background */
 
 body{
-    background-color: #EBEBEB
+    background-color: #EBEBEB;
+    font-family: 'Helvetica', sans-serif;
+    line-height: 30px;
 }
 
 /* Headers */
@@ -63,4 +65,49 @@ header .img-logo{
     margin-left: auto;
     margin-right: auto;
     width: 1024px;
+}
+
+/* Main */
+
+main{
+    max-width: 1200px;
+}
+
+main {
+    background-color: #cccccc;
+    font-family: 'Helvetica', sans-serif;
+}
+
+main img{
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 98%;
+}
+
+main {
+    text-align: center;
+}
+
+main h1, h2 {
+    padding-top: 25px;
+}
+
+main p {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Footer */
+
+footer {
+    background-color: #02111B;
+}
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    padding: 20px;
 }
